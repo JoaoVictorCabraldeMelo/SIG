@@ -1,0 +1,23 @@
+create table raw_data (
+	id int,
+	atendimentos_mes int,
+	nome_auditor char(30),
+	profissao_auditor char(20),
+	primeiro_nome char(20),
+	segundo_nome char(20),
+	primeiro_sobrenome char(20),
+	segundo_sobrenome char(20),
+	rg char(10),
+	data_nascimento date,
+	sexo char(1),
+	data_entrada date,
+	peso real,
+	altura int,
+	tensao_arterial_sistolica int,
+	tensao_arterial_diastolica int,
+	hemodialisis int,
+	dosis_dialisis real,
+	hemoglobina real,
+	albumina_serica real,
+	fosforo real
+);

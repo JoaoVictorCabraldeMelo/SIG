@@ -1,0 +1,12 @@
+atendimentos_mes: 0.023810
+idade: 253.816492
+tempo_entrada: 8.409408
+peso: 127.838811
+altura: 57.003484
+tensao_arterial_sistolica: 445.814750
+tensao_arterial_diastolica: 158.471545
+hemodialisis: 1005.941928
+dosis_dialisis: 995.212642
+hemoglobina: 1.720935
+albumina_serica: 0.152875
+fosforo: 0.986533
