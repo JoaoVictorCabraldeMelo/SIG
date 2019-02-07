@@ -34,3 +34,39 @@ Para realizar os cálculos basta rodar o script *calculos.sh* e passar os parâm
 ```
 $ ./calculos.sh postgres sig
 ```
+# Parte 2 
+
+Para executar a parte de python você tera que ter a lib psycopg2 para instalar a lib execute o comando 
+
+```
+pip install psycopg2
+```
+
+Edite o arquivo no 
+```
+python/sig.ini
+```
+
+Para 
+
+```
+[postgresql]
+host = localhost
+database = sig
+user = seu_usuario_no_postgre
+password = sua_senha_no_postgre
+```
+
+Então faça 
+
+```
+python women.py
+```
+
+```
+python pressure.py
+```
+
+```
+python men.py
+```
